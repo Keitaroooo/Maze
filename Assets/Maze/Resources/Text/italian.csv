@@ -1,0 +1,7 @@
+MAZE	labirinto
+START	inizio
+GOAL	obbiettivo
+SIZE	taglia
+PAUSE	pausa
+GAMEOVER	gioco finito
+GAMECLEAR	obbiettivo!!

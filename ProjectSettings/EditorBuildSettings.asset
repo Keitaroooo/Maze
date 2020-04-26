@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Maze/HomeScenes/HomeScene.unity
+    guid: 5a574123943a74c489774e2077e1df1a
+  - enabled: 1
+    path: Assets/Maze/GameScenes/GameScene.unity
+    guid: 252149e8b206f2b45a26f7532c187cdf
+  - enabled: 1
+    path: Assets/Maze/ClearScenes/ClearScene.unity
+    guid: 5043636cbb37cbd4cb9e57d27c7a07eb
+  - enabled: 1
+    path: Assets/Maze/GameOverScenes/GameOverScene.unity
+    guid: 7ad542f75d84b5e4694a8b6918341ebc
+  m_configObjects: {}

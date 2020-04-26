@@ -1,0 +1,7 @@
+MAZE	laberinto
+START	comienzo
+GOAL	Gol
+SIZE	tamaño
+PAUSE	pausa
+GAMEOVER	juego terminado
+GAMECLEAR	Gol!!
